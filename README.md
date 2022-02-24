@@ -1,3 +1,4 @@
+![Header](https://avatars.mds.yandex.net/get-zen_doc/1841592/pub_5dd2d891e482af743b16e033_5dd2da518ddf2d1f5dfc2c6b/scale_1200)
 # 24 Aternos
 
 - [Discord](https://discord.gg/bjgpVAxgyE)
