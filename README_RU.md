@@ -1,10 +1,10 @@
-# Aternos 24/7
+# 24 Aternos
 
 - [Discord](https://discord.gg/bjgpVAxgyE)
 - [Youtube](https://youtube.com/c/fortcote)
 - [Telegram](https://t.me/FortcoteTG)
 
-| <sub>EN</sub> [English](README.md) | <sub>RU</sub> [русский](ru/README_RU.md) |
+| <sub>EN</sub> [English](README.md) | <sub>RU</sub> [русский](README_RU.md) |
 |-------------------------|----------------------------|
 
 Данный бот сделан для хостинга aternos игры майнкрафт. Он не позваляет выключится серверу.
@@ -32,7 +32,7 @@
 
 ## Гайд
 
- * [Youtube RU](http://youtube.com/)
+ * не доступно
 
 ## Установка
 
