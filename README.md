@@ -4,7 +4,7 @@
 - [Youtube](https://youtube.com/c/fortcote)
 - [Telegram](https://t.me/FortcoteTG)
 
-| <sub>EN</sub> [English](README.md) | <sub>RU</sub> [русский](ru/README_RU.md) |
+| <sub>EN</sub> [English](README.md) | <sub>RU</sub> [русский](README_RU.md) |
 |-------------------------|----------------------------|
 
 This is a bot for minecraft hosting aternos. This bot does not allow the server to shut down.
