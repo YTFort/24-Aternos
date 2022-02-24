@@ -1,4 +1,4 @@
-# Aternos 24/7
+# 24 Aternos
 
 - [Discord](https://discord.gg/bjgpVAxgyE)
 - [Youtube](https://youtube.com/c/fortcote)
