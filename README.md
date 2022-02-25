@@ -33,7 +33,7 @@ This is a bot for minecraft hosting aternos. This bot does not allow the server 
 
 ## Help video
 
- * not available
+ * [YouTube RU](https://youtu.be/vpgzqO3YEDE)
 
 ## Installation
 
