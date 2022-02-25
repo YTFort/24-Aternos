@@ -32,7 +32,7 @@
 
 ## Гайд
 
- * не доступно
+ * [YouTube](https://youtu.be/vpgzqO3YEDE)
 
 ## Установка
 
