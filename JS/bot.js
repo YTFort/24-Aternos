@@ -4,13 +4,13 @@ console.log('Starting...')
 
 function createBot () {
     const bot = mineflayer.createBot({
-    host: "localhost",
-    port: "25565",
-    username: "Test",
+    host: "mineprosLET.aternos.me",
+    port: "18009",
+    username: "Admin",
     version: false
     })
     bot.on('login', function() {
-      bot.chat('/reginster 123123123 123123123')
+      bot.chat('/reginster bot228bot228 bot228bot228')
     })
     bot.on('chat', (username, message) => {
       if (username === bot.username) return
@@ -28,10 +28,10 @@ function createBot () {
           }
         })
         bot.on('spawn', function() {
-          bot.chat('Spawned')
+          bot.chat('!спавнюсь')
         })
         bot.on('death', function() {
-          bot.chat('I died, respawn')
+          bot.chat('!Я умер,Меня убили')
         })
         bot.on('kicked', (reason, loggedIn) => console.log(reason, loggedIn))
         bot.on('error', err => console.log(err))
