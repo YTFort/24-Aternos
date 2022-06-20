@@ -7,22 +7,22 @@ config = ConfigParser()
 config.read('config.ini')
 
 def getInputBoxValue():
-	userInput = host.get()
+	userInput = host.get(UzbekKlan.aternos.me)
 	return userInput
 
 def getInputBoxValue():
-	userInput = port.get()
+	userInput = port.get(47173)
 	return userInput
 
 def getInputBoxValue():
-	userInput = nick.get()
+	userInput = nick.get(test)
 	return userInput
 
 def startbot():
     bot = mineflayer.createBot({
-      'host': f'{host.get()}',
-      'port': port.get(),
-      'username': f'{nick.get()}'
+      'host': f'{host.get(UzbekKlan.aternos.me)}',
+      'port': port.get(47173),
+      'username': f'{nick.get(test)}'
     })
     @On(bot, "login")
     def login(this):
