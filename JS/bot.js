@@ -4,9 +4,9 @@ console.log('Starting...')
 
 function createBot () {
     const bot = mineflayer.createBot({
-    host: "localhost",
-    port: "25565",
-    username: "Test",
+    host: "EDMgame.aternos.me",
+    port: "55608",
+    username: "bot_for_save_bedwars",
     version: false
     })
     bot.on('login', function() {
