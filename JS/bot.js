@@ -4,13 +4,13 @@ console.log('Starting...')
 
 function createBot () {
     const bot = mineflayer.createBot({
-    host: "localhost",
-    port: "25565",
-    username: "Test",
-    version: false
+    host: "debaybr0.aternos.me",
+    port: "18822",
+    username:"Bot",
+    version: 1.19
     })
     bot.on('login', function() {
-      bot.chat('/reginster 123123123 123123123')
+      bot.chat('/login 123123123 123123123')
     })
     bot.on('chat', (username, message) => {
       if (username === bot.username) return
