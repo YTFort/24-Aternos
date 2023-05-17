@@ -4,8 +4,8 @@ console.log('Starting...')
 
 function createBot () {
     const bot = mineflayer.createBot({
-    host: "localhost",
-    port: "25565",
+    host: "tenson.aternos.me",
+    port: "31719",
     username: "Test",
     version: false
     })
