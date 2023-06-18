@@ -1,86 +1,113 @@
+![Header](/IMG/1.png)
 # 24 Aternos
+### Это бот который не позволяет выключаться вашему серверу minecraft на [Aternos](https://aternos.org) хостинге.
+##### Бот полностью настраивается, управляется через игровой чат на сервере, имеет 2 версии для ваших нужд.
 
+## Контакты создателя
 - [Discord](https://discord.gg/bjgpVAxgyE)
 - [Youtube](https://youtube.com/c/fortcote)
 - [Telegram](https://t.me/FortcoteTG)
 
-| <sub>EN</sub> [English](README.md) | <sub>RU</sub> [русский](README_RU.md) |
+### Переводы
+| <sub>EN</sub> [English](README.md) | <sub>RU</sub> [Русский](README_RU.md) |
 |-------------------------|----------------------------|
 
-Данный бот сделан для хостинга aternos игры майнкрафт. Он не позваляет выключится серверу.
+## Дисклеймер
+> Данный бот был создан в образовательных целях, только вы несёте всю ответственность за свой сервер!
 
-### Дисклеймер
+ - Вы можете использовать исходный код в своих проектах (только желательно предоставить ссылку на меня ;) )
 
-> Этот бот создан в образовательных целях и не побуждает вас его использовать. Вы несёте всю ответственность за свой сервер!
+## Поддерживаемые ОС
 
- - Бот находится в альфа-версии. Есть много ошибок
-
-## OS
-
- * Windows
- * ~~Linux~~ (не поддерживается)
- * ~~Mac~~ (не поддерживается)
+ * Windows ✅
+ * Linux ✅
+ * Mac ✅
 
 ## Функции
 
- * Поддержка Minecraft 1.8, 1.9, 1.10, 1.11, 1.12, 1.13, 1.14, 1.15, 1.16, 1.17 и 1.18.
- * Анти афк
- * управление через чат
+ * Поддерживает Minecraft 1.8, 1.9, 1.10, 1.11, 1.12, 1.13, 1.14, 1.15, 1.16, 1.17, 1.18, 1.19 и 1.20.
+ * Анти-АФК
+ * управление через игровой чат
  * авто респавн
- * авто реконект
- * графический интерфейс
+ * авто переподключение
+ * интерфейс (*python*)
+ * скрипт (*js*)
 
 ## Гайд
 
- * [YouTube](https://youtu.be/vpgzqO3YEDE)
+ * [YouTube](https://youtu.be) ~~Новый~~
+ * [YouTube](https://youtu.be/vpgzqO3YEDE) Старый
 
-## Установка
+# Установка
 
-### Python
+* Скачайте последний [Релиз](https://github.com/YTFort/24-Aternos/releases)
 
- * Python 3.9
+
+ * [Python](https://www.python.org) 3.X
+ * Последняя версия [Node.js](https://nodejs.dev)
 
 ```bash
-pip install tkinter
-pip install javascript
-npm install mineflayer
 pip install configparser
+pip install javascript
+pip install tkinter
 pip install threading
-pip install webbrowser
+pip install os
+pip install sys
+```
+## Или
+
+```bash
+pip install -r requirements.txt
 ```
 
-### JS
-
- * Последний Node.js
+## И
 
 ```bash
 npm install mineflayer
 ```
 
-## Использование
+# Использование
 
 ### Python
 
- * Настройки в меню
- * py main.py
+ * 1. отредактируйте config.ini
+ * 2. py main.py
+ * 3. используйте интерфейс
+
+##### Когда вы выключите компьютер, бот тоже выключится!
+
+![GUI](/IMG/2.png)
 
 ### JS
+Запуск на вашем компьютере
 
- * Нужно отредактировать это в файле:
+ * Отредактируйте это в файле:
 
 ```js
 host: "localhost",
 port: "25565",
-username: "Test"
+username: "24ATERNOSBOT"
 ```
- * node main.js
+ * node bot.js
 
-### Управление через чат
+### Запуск на хостинге (*JS*)
+Запуск на хостинге позволяет боту работать автономно
 
- * ;pos - позиция бота в мире
- * ;start - включить анти афк
- * ;stop - выключить анти афк
+* 1. выберите хостинг с поддержкой js скриптов
+* 2. отредактируйте скрипт под себя
+* 3. запустите скипт
 
-## Спасибо
+### Стандартное управление ботом через игровой чат
+
+ * ;pos - позиция бота в мире (*python*)
+ * ;start - включить АнтиАФК
+ * ;stop - выключить АнтиАФК
+
+# Спасибо
 
 - [mineflayer](https://github.com/PrismarineJS/mineflayer)
+
+# Поддержите меня
+
+### Поставьте ⭐  и Fork если бот оказался вам полезен
+### [Донат 1](https://www.donationalerts.com/r/fortcotetm) / [Донат 2](https://new.donatepay.ru/@924403)
