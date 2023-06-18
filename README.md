@@ -1,87 +1,113 @@
-![Header](https://avatars.mds.yandex.net/get-zen_doc/1841592/pub_5dd2d891e482af743b16e033_5dd2da518ddf2d1f5dfc2c6b/scale_1200)
+![Header](/IMG/1.png)
 # 24 Aternos
+### This is a bot that does not allow your minecraft server to shut down on the [Aternos](https://aternos.org) hosting.
+##### The bot is fully configurable, controlled in a game chat on the server, has 2 versions for your needs.
 
+## creator's contacts
 - [Discord](https://discord.gg/bjgpVAxgyE)
 - [Youtube](https://youtube.com/c/fortcote)
 - [Telegram](https://t.me/FortcoteTG)
 
-| <sub>EN</sub> [English](README.md) | <sub>RU</sub> [русский](README_RU.md) |
+### translations
+| <sub>EN</sub> [English](README.md) | <sub>RU</sub> [Русский](README_RU.md) |
 |-------------------------|----------------------------|
 
-This is a bot for minecraft hosting aternos. This bot does not allow the server to shut down.
-
-### Disclaimer
-
+## Disclaimer
 > This bot is made for educational purposes and does not encourage you to use it. You are solely responsible for your server!
 
- - The bot is in alpha version. There are many bugs
+ - You can use the source code in your projects (only preferably provide a link to me ;) )
 
-## OS
+## Supported OS
 
- * Windows
- * ~~Linux~~ (not supported)
- * ~~Mac~~ (not supported)
+ * Windows ✅
+ * Linux ✅
+ * Mac ✅
 
 ## Features
 
- * Supports Minecraft 1.8, 1.9, 1.10, 1.11, 1.12, 1.13, 1.14, 1.15, 1.16, 1.17 and 1.18.
+ * Supports Minecraft 1.8, 1.9, 1.10, 1.11, 1.12, 1.13, 1.14, 1.15, 1.16, 1.17, 1.18, 1.19 and 1.20.
  * Anti-AFK
  * chat control
  * auto respawn
  * auto reconect
- * GUI
+ * GUI (*python*)
+ * script version (*js*)
 
 ## Help video
 
- * [YouTube](https://youtu.be/vpgzqO3YEDE)
+ * [YouTube](https://youtu.be) ~~NEW~~
+ * [YouTube](https://youtu.be/vpgzqO3YEDE) OLD
 
-## Installation
+# Installation
 
-### Python
+* Download last [Release](https://github.com/YTFort/24-Aternos/releases)
 
- * Python 3.9
+
+ * [Python](https://www.python.org) 3.X
+ * First install [Node.js](https://nodejs.dev)
 
 ```bash
-pip install tkinter
-pip install javascript
-npm install mineflayer
 pip install configparser
+pip install javascript
+pip install tkinter
 pip install threading
-pip install webbrowser
+pip install os
+pip install sys
+```
+## Or
+
+```bash
+pip install -r requirements.txt
 ```
 
-### JS
-
- * First install Node.js
+## And
 
 ```bash
 npm install mineflayer
 ```
 
-## Usage
+# Usage
 
 ### Python
 
- * edit in GUI
- * py main.py
+ * 1. edit config.ini
+ * 2. py main.py
+ * 3. use GUI
+
+##### When you turn off the computer, the bot will also turn off!
+
+![GUI](/IMG/2.png)
 
 ### JS
+Running on your computer
 
  * File needs to be edited:
 
 ```js
 host: "localhost",
 port: "25565",
-username: "Test"
+username: "24ATERNOSBOT"
 ```
- * node main.js
+ * node bot.js
 
-### Chat control
+### Launch on hosting (*JS*)
+Running on a hosting allows the bot to work autonomously
 
- * ;pos - bot position in the world
- * ;start - enable anti afk
- * ;stop - disable anti afk
+* 1. сhoosing a hosting with support for js scripts
+* 2. editing the script for yoursel
+* 3. run the script
 
-## Thanks
+### Standard bot management via game chat
+
+ * ;pos - bot position in the world (*python*)
+ * ;start - enable AntiAFK
+ * ;stop - disable AntiAFK
+
+# Thanks
 
 - [mineflayer](https://github.com/PrismarineJS/mineflayer)
+
+# Support me
+
+### Put a ⭐ and Fork if this bot turned out to be useful to you
+### [Donate 1](https://www.donationalerts.com/r/fortcotetm) / [Donate 2](https://new.donatepay.ru/@924403)
