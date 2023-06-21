@@ -1,5 +1,8 @@
 ![Header](/IMG/1.png)
 <a href="https://github.com/YTFort/24-Aternos/stargazers"><img src="https://badgen.net/github/stars/YTFort/24-Aternos" alt="GitHub stars"/></a>
+<a href="https://github.com/YTFort/24-Aternos"><img src="https://badgen.net/github/watchers/YTFort/24-Aternos" alt="GitHub watchers"/></a>
+<a href="https://github.com/YTFort/24-Aternos"><img src="https://badgen.net/github/forks/YTFort/24-Aternos" alt="GitHub forks"/></a>
+<a href="https://github.com/YTFort/24-Aternos/release"><img src="https://badgen.net/github/assets-dl/YTFort/24-Aternos" alt="GitHub download"/></a>
 # `24 Aternos`
 ### This is a bot that does not allow your minecraft server to shut down on the [Aternos](https://aternos.org) hosting.
 ##### The bot is fully configurable, controlled in a game chat on the server, has 2 versions for your needs.
