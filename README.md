@@ -1,5 +1,5 @@
 ![Header](/IMG/1.png)
-# 24 Aternos
+# `24 Aternos`
 ### This is a bot that does not allow your minecraft server to shut down on the [Aternos](https://aternos.org) hosting.
 ##### The bot is fully configurable, controlled in a game chat on the server, has 2 versions for your needs.
 
