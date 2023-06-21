@@ -1,29 +1,34 @@
 ![Header](/IMG/1.png)
-# 24 Aternos
+<a href="https://github.com/YTFort/24-Aternos/stargazers"><img src="https://badgen.net/github/stars/YTFort/24-Aternos" alt="GitHub stars"/></a>
+<a href="https://github.com/YTFort/24-Aternos"><img src="https://badgen.net/github/watchers/YTFort/24-Aternos" alt="GitHub watchers"/></a>
+<a href="https://github.com/YTFort/24-Aternos"><img src="https://badgen.net/github/forks/YTFort/24-Aternos" alt="GitHub forks"/></a>
+<a href="https://github.com/YTFort/24-Aternos/releases"><img src="https://badgen.net/github/assets-dl/YTFort/24-Aternos" alt="GitHub download"/></a>
+<a href="https://github.com/YTFort/24-Aternos/releases"><img src="https://badgen.net/github/assets-dl/YTFort/24-Aternos/24-Aternos" alt="GitHub download"/></a>
+# `24 Aternos`
 ### Это бот который не позволяет выключаться вашему серверу minecraft на [Aternos](https://aternos.org) хостинге.
 ##### Бот полностью настраивается, управляется через игровой чат на сервере, имеет 2 версии для ваших нужд.
 
-## Контакты создателя
+## `Контакты создателя`
 - [Discord](https://discord.gg/bjgpVAxgyE)
 - [Youtube](https://youtube.com/c/fortcote)
 - [Telegram](https://t.me/FortcoteTG)
 
-### Переводы
+## `Переводы`
 | <sub>EN</sub> [English](README.md) | <sub>RU</sub> [Русский](README_RU.md) |
 |-------------------------|----------------------------|
 
-## Дисклеймер
+## `Дисклеймер`
 > Данный бот был создан в образовательных целях, только вы несёте всю ответственность за свой сервер!
 
  - Вы можете использовать исходный код в своих проектах (только желательно предоставить ссылку на меня ;) )
 
-## Поддерживаемые ОС
+## `Поддерживаемые ОС`
 
  * Windows ✅
  * Linux ✅
  * Mac ✅
 
-## Функции
+## `Функции`
 
  * Поддерживает Minecraft 1.8, 1.9, 1.10, 1.11, 1.12, 1.13, 1.14, 1.15, 1.16, 1.17, 1.18, 1.19 и 1.20.
  * Анти-АФК
@@ -33,12 +38,12 @@
  * интерфейс (*python*)
  * скрипт (*js*)
 
-## Гайд
+## `Гайд`
 
  * [YouTube](https://youtu.be) ~~Новый~~
  * [YouTube](https://youtu.be/vpgzqO3YEDE) Старый
 
-# Установка
+# `Установка`
 
 * Скачайте последний [Релиз](https://github.com/YTFort/24-Aternos/releases)
 
@@ -66,7 +71,7 @@ pip install -r requirements.txt
 npm install mineflayer
 ```
 
-# Использование
+# `Использование`
 
 ### Python
 
@@ -103,11 +108,11 @@ username: "24ATERNOSBOT"
  * ;start - включить АнтиАФК
  * ;stop - выключить АнтиАФК
 
-# Спасибо
+# `Спасибо`
 
 - [mineflayer](https://github.com/PrismarineJS/mineflayer)
 
-# Поддержите меня
+# `Поддержите меня`
 
 ### Поставьте ⭐  и Fork если бот оказался вам полезен
 ### [Донат 1](https://www.donationalerts.com/r/fortcotetm) / [Донат 2](https://new.donatepay.ru/@924403)
