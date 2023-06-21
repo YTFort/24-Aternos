@@ -3,27 +3,27 @@
 ### This is a bot that does not allow your minecraft server to shut down on the [Aternos](https://aternos.org) hosting.
 ##### The bot is fully configurable, controlled in a game chat on the server, has 2 versions for your needs.
 
-## creator's contacts
+## `creator's contacts`
 - [Discord](https://discord.gg/bjgpVAxgyE)
 - [Youtube](https://youtube.com/c/fortcote)
 - [Telegram](https://t.me/FortcoteTG)
 
-### translations
+## `translations`
 | <sub>EN</sub> [English](README.md) | <sub>RU</sub> [Русский](README_RU.md) |
 |-------------------------|----------------------------|
 
-## Disclaimer
+## `Disclaimer`
 > This bot is made for educational purposes and does not encourage you to use it. You are solely responsible for your server!
 
  - You can use the source code in your projects (only preferably provide a link to me ;) )
 
-## Supported OS
+## `Supported OS`
 
  * Windows ✅
  * Linux ✅
  * Mac ✅
 
-## Features
+## `Features`
 
  * Supports Minecraft 1.8, 1.9, 1.10, 1.11, 1.12, 1.13, 1.14, 1.15, 1.16, 1.17, 1.18, 1.19 and 1.20.
  * Anti-AFK
@@ -33,12 +33,12 @@
  * GUI (*python*)
  * script version (*js*)
 
-## Help video
+## `Help video`
 
  * [YouTube](https://youtu.be) ~~NEW~~
  * [YouTube](https://youtu.be/vpgzqO3YEDE) OLD
 
-# Installation
+# `Installation`
 
 * Download last [Release](https://github.com/YTFort/24-Aternos/releases)
 
@@ -66,7 +66,7 @@ pip install -r requirements.txt
 npm install mineflayer
 ```
 
-# Usage
+# `Usage`
 
 ### Python
 
@@ -103,11 +103,11 @@ Running on a hosting allows the bot to work autonomously
  * ;start - enable AntiAFK
  * ;stop - disable AntiAFK
 
-# Thanks
+# `Thanks`
 
 - [mineflayer](https://github.com/PrismarineJS/mineflayer)
 
-# Support me
+# `Support me`
 
 ### Put a ⭐ and Fork if this bot turned out to be useful to you
 ### [Donate 1](https://www.donationalerts.com/r/fortcotetm) / [Donate 2](https://new.donatepay.ru/@924403)
