@@ -40,8 +40,8 @@
 
 ## `Гайд`
 
- * [YouTube](https://youtu.be) ~~Новый~~
- * [YouTube](https://youtu.be/vpgzqO3YEDE) Старый
+ * [YouTube](https://https://youtu.be/omcDWHgeV54?si=f_irsTbtnFEIvKw2) Новый
+ * [YouTube](https://youtu.be/vpgzqO3YEDE) ~~Старый~~
 
 # `Установка`
 
