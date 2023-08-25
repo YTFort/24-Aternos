@@ -40,8 +40,8 @@
 
 ## `Help video`
 
- * [YouTube](https://youtu.be) ~~NEW~~
- * [YouTube](https://youtu.be/vpgzqO3YEDE) OLD
+ * [YouTube](https://youtu.be/omcDWHgeV54?si=f_irsTbtnFEIvKw2) NEW
+ * [YouTube](https://youtu.be/vpgzqO3YEDE) ~~OLD~~
 
 # `Installation`
 
